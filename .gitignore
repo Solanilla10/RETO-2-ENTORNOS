@@ -1,0 +1,19 @@
+# Eclipse
+.metadata/
+bin/
+*.class
+.settings/
+
+# IntelliJ (por si alguien lo usa)
+.idea/
+out/
+*.iml
+
+# VS Code y sistema
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Javadoc generado (se regenera; ver docs/programacion/README.md)
+# Si el profesor pide subirlo al repositorio, borrad la línea siguiente.
+docs/programacion/javadoc/
